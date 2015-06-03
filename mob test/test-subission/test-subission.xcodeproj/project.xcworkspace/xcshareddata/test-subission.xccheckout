@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1DF7ACEF-C2A8-47DB-AA14-FC4B8114E68D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CBB0B069FD673EED8D0643580A238FCA2E682C29</key>
+		<string>https://github.com/leon3003/MOB-Assignments.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>mob test/test-subission/test-subission.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CBB0B069FD673EED8D0643580A238FCA2E682C29</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/leon3003/MOB-Assignments.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CBB0B069FD673EED8D0643580A238FCA2E682C29</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CBB0B069FD673EED8D0643580A238FCA2E682C29</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MOB-Assignments</string>
+		</dict>
+	</array>
+</dict>
+</plist>

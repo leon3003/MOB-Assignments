@@ -52,7 +52,7 @@ class StudentProfileViewController: UIViewController {
         }
         
         let url = NSURL(string: student.profilePicURL)
-        let data = NSData(contentsOfURL: url!) //make sure your image in this url does exist, otherwise unwrap in a if let check
+        let data = NSData(contentsOfURL: url!)
         profilePicture.image = UIImage(data: data!)
         
     }
